@@ -1,4 +1,4 @@
-# ADS-CP-SEM-III-
+# ADS-CP-SEM-III-( SY-IT-B Group4 )
 Implementation of Huffman Encoding and Decoding Algorithm for File Compresssion
 
 The Huffman File Encoding and Decoding project 
